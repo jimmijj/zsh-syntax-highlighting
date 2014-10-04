@@ -1,3 +1,4 @@
 - set different colors for each atom (dir/links) of path
 - give user an option for full compatibility with ls (path in the same style as file from LS_COLORS)
 - separate lsstyle for files and prefix_file?
+- use zle-lini-init in major script
